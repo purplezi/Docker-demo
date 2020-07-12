@@ -1,0 +1,2 @@
+${SERVER_PR} ${CLIENT_IP}(ro,sync,no_subtree_check)
+${SERVER_PRW} ${CLIENT_IP}(rw,sync,no_subtree_check)
